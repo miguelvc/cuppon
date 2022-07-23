@@ -1,0 +1,20 @@
+body{ 
+    font-family: 'Roboto', sans-serif;
+    color: #212529;
+    font-weight: 300;
+    font-size: 16px;
+}
+
+h5 {
+    font-size: 20px;
+}
+
+.precio{
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.card img{
+    object-fit: cover;
+    object-position: middle;
+}
